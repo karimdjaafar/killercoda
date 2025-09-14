@@ -3,7 +3,7 @@ There is recognition for common languages in code blocks.
 
 ### Javascript
 ```
-let var = 'good morning';
+let var = 'good morning !!!';
 alert(var);
 ```
 
